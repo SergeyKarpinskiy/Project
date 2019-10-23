@@ -1,0 +1,46 @@
+#Drag {
+  font-size: 300%; }
+
+#Allitems {
+  font-size: 100%;
+  width: 15rem; }
+
+#ReAll {
+  font-size: 100%;
+  width: 8rem; }
+
+#Head {
+  font-size: 250%;
+  font-style: italic;
+  background: #ff50a7;
+  width: 30rem; }
+
+.container {
+  width: 100%;
+  background: #6cf57e; }
+
+table {
+  font-size: 200%; }
+
+tbody {
+  color: #3532ff;
+  font-weight: bolder; }
+
+#fields {
+  font-size: 150%;
+  background: #029402;
+  width: 60rem; }
+
+#AddB {
+  font-size: 150%;
+  width: 15rem; }
+
+#EditB {
+  font-size: 150%;
+  width: 21rem; }
+
+#DelB {
+  font-size: 150%;
+  width: 17rem; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,62 @@
+$LineHeight: 30px;
+$myWidth: 100%;
+$myHeight: 30px;
+$myBoxshadow: 0 1.5px 10px 0 rgba(1,0,42,.05);
+$myTextalign: center;
+$myFontSize: 150%;
+ 
+
+#Drag
+{
+    font-size:$myFontSize + 150%;
+}
+#Allitems
+{
+    font-size:$myFontSize - 50%;
+    width: 15rem;
+}
+#ReAll
+{
+    font-size:$myFontSize - 50%;
+    width: 8rem;
+}
+#Head
+{
+    font-size: $myFontSize + 100%;
+    font-style: italic;
+    background: rgb(255, 80, 167);
+    width: 30rem;
+}
+.container {
+    width: $myWidth;
+    background: #6cf57e;
+}
+table {
+    font-size: $myFontSize + 50%;
+}
+tbody
+{
+    color: rgb(53, 50, 255);
+    font-weight: bolder;
+}
+#fields
+{
+    font-size: $myFontSize;
+    background:rgb(2, 148, 2);
+    width: 60rem;
+}
+#AddB
+{
+    font-size:$myFontSize;
+    width: 15rem;
+}
+#EditB
+{
+    font-size:$myFontSize;
+    width: 21rem;
+}
+#DelB
+{
+    font-size:$myFontSize;
+    width: 17rem;
+}
